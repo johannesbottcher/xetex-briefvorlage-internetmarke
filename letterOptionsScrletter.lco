@@ -1,0 +1,3 @@
+
+\setkomafont{subject}{\normalfont\bfseries}
+\@addtoplength[-]{firstheadvpos}{15pt}
